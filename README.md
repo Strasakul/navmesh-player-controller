@@ -38,13 +38,15 @@ Adjust the Camera speed using two variables in the Camera Controller script loca
 
 Note: Y speed should be higher for equivalent results.
 
+<!--
+DEPRECATED
 ## Example Project
 Explore the [Example Project](https://gitlab.maibornwolff.de/felix.link/navmesh-agent-player-controller/-/tree/main/Example%20Project?ref_type=heads) for practical implementation.
 
 ## Prerequisites Example Project
 
 - Unity version 2020.3.21 or higher 
-
+-->
 ## Feedback
 We welcome your feedback! If you encounter issues or have suggestions for improvement, please report them.
 
