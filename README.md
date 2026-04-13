@@ -24,7 +24,10 @@ This Navigation Methode workes best for Smartphone useage.
 - Drag and drop the Player Blueprint into your scene.
 - Ensure a valid NavMesh is present, and the player is positioned on it.
 
+<!--
+DEPRECATED
 For an Example setup, refer to the [Example Project](https://gitlab.maibornwolff.de/felix.link/navmesh-agent-player-controller/-/tree/main/Example%20Project?ref_type=heads).
+-->
 
 ## Configuration
 
